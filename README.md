@@ -164,6 +164,16 @@ An interactive visualization project that helps understand sorting algorithms, t
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aditya4405/Aditya4405/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## 🧠 Currently Learning
 
 `Spring AI` • `System Design` • `Advanced DSA` • `Distributed Systems` • `Scalable Backend Architecture`
