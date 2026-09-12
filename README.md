@@ -46,10 +46,36 @@ I'm a **Computer Software Engineering student and backend-focused developer** wh
 <tr>
 <td width="50%">
 
+### 🐾 Smart Pet Care
+**Smart Pet Care Platform**
+
+A web application focused on simplifying pet-care activities and providing an organized digital experience for pet owners.
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+<a href="https://github.com/Aditya4405/smart-pet-care">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 📚 StudyAssistant
+**Study & Learning Assistant**
+
+A learning-focused application designed to help students organize and improve their study experience through useful digital tools.
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+<a href="https://github.com/Aditya4405/StudyAssistant">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🅿️ ParkEase
 **Smart Parking Management & Reservation System**
 
-Enterprise-style full-stack application for parking discovery, dynamic slot allocation and conflict-free reservations.
+Full-stack application for parking discovery, dynamic slot allocation and conflict-free reservations.
 
 **Highlights**
 - JWT authentication & role-based authorization
@@ -63,6 +89,20 @@ Enterprise-style full-stack application for parking discovery, dynamic slot allo
 <a href="https://github.com/Aditya4405/ParkEase">View Repository →</a>
 
 </td>
+<td width="50%">
+
+### 🌐 Portfolio
+**Personal Developer Portfolio**
+
+A personal portfolio website showcasing projects, technical skills, development experience and professional profile.
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+<a href="https://github.com/Aditya4405/portfolio">View Repository →</a>
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🚚 LogiTrack
@@ -82,59 +122,20 @@ End-to-end logistics platform covering parcel routing, delivery tracking, paymen
 <a href="https://github.com/Aditya4405/last_mile_delivery">View Repository →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 🏥 MediChain
-**Telemedicine & EHR Platform**
+### 📊 Sorting Visualizer
+**Algorithm Visualization Tool**
 
-Role-based healthcare platform for patients, doctors and administrators with electronic health records and appointment workflows.
+An interactive visualization project that helps understand sorting algorithms, their execution and time complexity.
 
-**Highlights**
-- Patient & doctor dashboards
-- EHR management
-- Appointment scheduling
-- Role-based access
-- JWT authentication
+**Tech:** `HTML` `CSS` `JavaScript`
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `Tailwind CSS`
-
-<a href="https://github.com/Aditya4405/MediChain">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🧠 LeetCode DSA
-**Algorithm & Problem-Solving Practice**
-
-A dedicated repository for strengthening algorithmic thinking, data structures and coding interview fundamentals.
-
-**Focus Areas**
-- Arrays & Strings
-- Hashing
-- Linked Lists
-- Trees & Graphs
-- Searching & Sorting
-- Problem-solving patterns
-
-<a href="https://github.com/Aditya4405/Leetcode_DSA">View Repository →</a>
+<a href="https://github.com/Aditya4405/shorting-vizualizer">View Repository →</a>
 
 </td>
 </tr>
 </table>
-
----
-
-## 🔎 More Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🐾 [Smart Pet Care](https://github.com/Aditya4405/smart-pet-care) | Pet-care focused web application | JavaScript |
-| 📚 [StudyAssistant](https://github.com/Aditya4405/StudyAssistant) | Study / learning assistant project | JavaScript |
-| 📊 [Sorting Visualizer](https://github.com/Aditya4405/shorting-vizualizer) | Interactive sorting algorithm visualization | HTML |
-| 🌐 [Portfolio](https://github.com/Aditya4405/portfolio) | Personal developer portfolio | JavaScript |
-| 🎵 [Spotify Clone](https://github.com/Aditya4405/Spotify-Clone) | Spotify-inspired frontend project | JavaScript |
 
 ---
 
@@ -165,13 +166,7 @@ A dedicated repository for strengthening algorithmic thinking, data structures a
 
 ## 🧠 Currently Learning
 
-```text
-Spring AI                 █████████░  90%
-System Design             ████████░░  80%
-Advanced DSA              ████████░░  80%
-Distributed Systems       ██████░░░░  60%
-Scalable Backend Design   ███████░░░  70%
-```
+`Spring AI` • `System Design` • `Advanced DSA` • `Distributed Systems` • `Scalable Backend Architecture`
 
 ---
 
@@ -192,6 +187,6 @@ I'm actively interested in **Java Backend Development, Spring Boot, REST API dev
 
 <br/><br/>
 
-**⭐ If you find something useful here, consider starring the repository!**
+**⭐ Thanks for visiting my profile!**
 
 </div>
